@@ -1,0 +1,38 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   margin-top: 30px;
+
+}
+
+.card_body{
+    width: min-content;
+    box-shadow: 0 0 5px black;
+    margin: 20px;
+    padding: 0px 0px 10px 0px;
+    background: black;
+    color: white;
+   
+}
+.card_body:hover{
+   background-color: white;
+   color: black;
+   box-shadow: 0 0 10px black;
+   transition: .5s;
+   transform: rotateX(10deg);
+   transform: translateY(-10px);
+
+}
+
+ 
+
+button{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+
+}
