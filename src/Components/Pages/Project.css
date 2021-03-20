@@ -1,0 +1,21 @@
+.project_nav{
+    display: flex;
+   padding: 10px 0px 5px 20px;
+}
+.project_item{
+    padding: 0px 10px;
+}
+.big_container{
+    height: 65vh;
+    overflow-y: auto;
+    justify-content: space-around;
+   
+    grid-template-columns: auto auto auto;
+    display: grid;
+    
+}
+
+.card{
+  margin-top: 30px;
+  width: 240px;
+}

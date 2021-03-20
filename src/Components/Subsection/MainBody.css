@@ -1,0 +1,27 @@
+.education{
+   padding: 0px 20px;
+   
+}
+.education p{
+text-align: justify;
+padding: 10px 0;
+}
+.experience{
+    padding: 0px 20px;
+}
+.experience p{
+    text-align: justify;
+}
+
+/* main body 2 */
+.language_framework{
+    padding: 0px 38px 0px 38px;
+}
+
+.progress{
+    margin-top:20px;
+    
+}
+.Tools_thing{
+    padding: 0px 38px 0px 38px;
+}
